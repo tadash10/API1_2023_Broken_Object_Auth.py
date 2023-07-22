@@ -1,10 +1,7 @@
-# Contributing to [Project Name]
+# Contributing to mitigate API1:2023 - Broken Object Level Authorization
 
-Welcome to [Project Name]! We appreciate your interest in contributing to this project. Before you get started, please take a moment to read the guidelines below.
+Welcome ! We appreciate your interest in contributing to this project. Before you get started, please take a moment to read the guidelines below.
 
-## Code of Conduct
-
-This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). Please review it and adhere to the guidelines.
 
 ## How to Contribute
 
