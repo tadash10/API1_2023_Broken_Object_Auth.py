@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Compiled and built files
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.out
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info
+*.pyc
+*.tgz
+*.pyo
+*.manifest
+
+# Temporary files
+*.tmp
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints/
